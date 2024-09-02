@@ -1,0 +1,267 @@
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .manu_bg h4 {
+        font-size: 18px; /* Example adjustment for smaller screens */
+    }
+
+    .ami a {
+        font-size: 18px; /* Example adjustment for smaller screens */
+        padding: 0px 15px; /* Example adjustment for smaller screens */
+    }
+
+    .hi button {
+        font-size: 18px; /* Example adjustment for smaller screens */
+        padding: 8px 12px; /* Example adjustment for smaller screens */
+    }
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .banner_main {
+        font-size: 60px; /* Adjust font size for smaller screens */
+    }
+
+    .banner_inner_text h4 {
+        font-size: 48px; /* Adjust font size for smaller screens */
+    }
+
+    .banner_inner_text h2 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .banner_inner_text p {
+        font-size: 18px; /* Adjust font size for smaller screens */
+    }
+
+    .banner_inner_text button {
+        font-size: 18px; /* Adjust font size for smaller screens */
+        padding: 8px 20px; /* Adjust padding for smaller screens */
+    }
+
+    .banner_img img {
+        width: 50%; 
+        margin-top: 40px;
+        margin-left: 100px;/* Adjust image width for smaller screens */
+    }
+
+    .banner_inner {
+        padding: 15px 5px; /* Adjust padding for smaller screens */
+    }
+
+    .banner_inner h2 {
+        font-size: 48px; /* Adjust font size for smaller screens */
+    }
+
+    .banner_inner h3 {
+        font-size: 22px; /* Adjust font size for smaller screens */
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .one h2 {
+        font-size: 48px; /* Adjust font size for smaller screens */
+    }
+
+    .one img {
+        width: 50%; /* Adjust image width for smaller screens */
+    }
+
+    .two {
+        padding: 60px 20px; /* Adjust padding for smaller screens */
+    }
+
+    .two img {
+        width: 20%; /* Adjust image width for smaller screens */
+    }
+
+    .two h2 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .two h4 {
+        font-size: 18px; /* Adjust font size for smaller screens */
+    }
+
+    .two p {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+
+    .two h5 {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .three h2 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .three h3 {
+        font-size: 20px; /* Adjust font size for smaller screens */
+    }
+
+    .four img {
+        width: 40%; /* Adjust image width for smaller screens */
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .six h2 {
+        font-size: 48px; /* Adjust font size for smaller screens */
+    }
+
+    .six p {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+
+    .seven h2 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .eight button {
+        width: 300px; /* Adjust button width for smaller screens */
+    }
+
+    .nine_two img {
+        width: 80%; /* Adjust image width for smaller screens */
+    }
+
+    .nine_one_main button {
+        font-size: 12px; /* Adjust font size for smaller screens */
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .eight h2 {
+        font-size: 48px; /* Adjust font size for smaller screens */
+    }
+
+    .eight_one h4 {
+        font-size: 22px; /* Adjust font size for smaller screens */
+    }
+
+    .eight_one h2 {
+        font-size: 30px; /* Adjust font size for smaller screens */
+    }
+
+    .eight_one h3 {
+        font-size: 20px; /* Adjust font size for smaller screens */
+    }
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    .ten h2 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .ten p {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+
+    .eleven_one {
+        padding: 20px 15px; /* Adjust padding for smaller screens */
+    }
+
+    .eleven_one h2 {
+        font-size: 28px; /* Adjust font size for smaller screens */
+    }
+
+    .eleven_one img {
+        width: 20%; /* Adjust image width for smaller screens */
+    }
+
+    .eleven_two h4 {
+        font-size: 20px; /* Adjust font size for smaller screens */
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    #sixth {
+        padding: 40px 0; /* Reduced padding for smaller screens */
+    }
+
+    .twelev h2 {
+        font-size: 36px; /* Adjusted font size for smaller screens */
+    }
+
+    .twelev p {
+        font-size: 16px; /* Adjusted font size for smaller screens */
+        margin-top: 20px; /* Adjusted margin for smaller screens */
+    }
+
+    .therteen {
+        padding: 20px 20px; /* Reduced padding for smaller screens */
+        box-shadow: 0px 0px 8px #F9DBBA; /* Adjusted shadow for smaller screens */
+    }
+
+    .therteen h2 {
+        font-size: 36px; /* Adjusted font size for smaller screens */
+    }
+
+    .therteen h3 {
+        font-size: 24px; /* Adjusted font size for smaller screens */
+    }
+
+    .therteen h5 {
+        font-size: 16px; /* Adjusted font size for smaller screens */
+    }
+
+    .therteen button {
+        padding: 10px 60px; /* Adjusted padding for smaller screens */
+        font-size: 18px; /* Adjusted font size for smaller screens */
+    }
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 1399px) {
+    #seventh {
+        padding: 40px 0; /* Adjust padding for smaller screens */
+    }
+
+    .fourteen h2 {
+        font-size: 36px; /* Reduced font size for smaller screens */
+        padding-bottom: 30px; /* Adjust padding for smaller screens */
+    }
+
+    .fiveteen_one {
+        padding: 20px 10px; /* Adjust padding for smaller screens */
+    }
+
+    .fiveteen_one img {
+        width: 50%; /* Adjust image size for smaller screens */
+    }
+
+    .fiveteen_one h4,
+    .fiveteen_one h2,
+    .fiveteen_one p,
+    .fiveteen_one h5,
+    .fiveteen_one h6,
+    .fiveteen_one h3 {
+        font-size: smaller; /* Adjust font sizes for smaller screens */
+    }
+
+    .fiveteen_main {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+    }
+
+    .fiveteen_main_inner {
+        padding: 20px 20px; /* Adjust padding for smaller screens */
+    }
+
+    .fiveteen_two input,
+    .fiveteen_three input,
+    .fiveteen_four input {
+        width: 100%; /* Ensure inputs are full width on smaller screens */
+    }
+
+    .fiveteen_five button {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+}

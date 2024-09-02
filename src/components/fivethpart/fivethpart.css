@@ -1,0 +1,63 @@
+#fiveth{
+    background: linear-gradient(to right, #295F98, #396EB0, #0C4271);
+    padding: 50px 0px;
+}
+.ten {
+    text-align: center;
+}
+
+
+
+.ten h2{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    background: linear-gradient(90deg, #4F1787, yellow, #1E2A78);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+
+
+.ten p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #7695FF;
+    margin-top: 10px;
+}
+.eleven_one{
+    background-color: #180161;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 60px;
+    box-shadow: 0px 0px 12px #FFFF;
+}
+.eleven_one:hover{
+   background-color: #7F27FF;
+  
+}
+.eleven_one h2{
+    font-size: 36px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #F5F5F5;
+    margin-top: 20px;
+}
+.eleven_one img{
+    width: 60%;
+}
+.eleven_two{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.eleven_two h4{
+    font-size: 24px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #D1E9F6;
+    
+}
+

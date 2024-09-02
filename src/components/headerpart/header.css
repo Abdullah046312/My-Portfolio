@@ -1,0 +1,65 @@
+.manu_bg{
+    background: linear-gradient(to right, #295F98, #396EB0, #0C4271);
+    text-align: center;
+    
+}
+
+.manu_bg h4{
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #FFFF;
+    
+}
+
+
+
+.ami a{
+    padding: 0px 20px !important;
+    color: #FFFF !important;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    transition: .5s;
+    transform: scale(1);
+    
+    
+    
+
+}
+
+.ami a:hover{
+    background: linear-gradient(to right, #6482AD, #5AB2FF, #03AED2);  
+    color: #FFFBDA !important;
+   
+    border-radius: 12px;
+    transform: scale(1.2);
+    box-shadow: 0px 0px 10px #E9FF97; 
+ 
+}
+
+
+.hi button{
+    padding: 10px 15px;
+    background: linear-gradient(to right, #3A1078, blue);
+    color: #ffff;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+   border-radius: 12px;
+    border: none;
+    transition: .5s;
+    transform: scale(1);
+    box-shadow: 0px 0px 10px #8CABFF; 
+}
+
+.hi button:hover{
+    
+ background: linear-gradient(to right, #FABC3F, #FF8343, #921A40);
+ color: #2C2643;
+ 
+      
+      
+}
+

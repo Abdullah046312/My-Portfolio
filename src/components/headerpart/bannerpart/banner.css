@@ -1,0 +1,135 @@
+#banner{
+    background: linear-gradient(to right, #295F98, #396EB0, #0C4271);
+    padding: 60px 0px;
+}
+.banner_main img{
+    width: 15%;
+    margin-top: 10px;
+}
+.banner_inner_text h4{
+    font-size: 62px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #D1E9F6;
+}
+.banner_inner_text h2{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #D1E9F6;
+}
+.banner_inner_text h3{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #7695FF;
+}
+.banner_main{
+    font-size: 82px !important;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #FABC3F; 
+   
+    background: linear-gradient(90deg, #7695FF, yellow, #A28B55);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    
+}
+
+.banner_inner_text p{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Paprika", system-ui;
+    color: #7695FF;
+    margin-top: 20px;
+    
+}
+
+.banner_inner_text button{
+    padding: 10px 25px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    background-color: #5B99C2;
+    border-radius: 100px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 30px;
+    transition: .5s;
+    transform: scale(.9);
+    box-shadow: 0px 0px 10px #8CABFF; 
+    
+}
+
+.banner_inner_text button:hover{
+    background: linear-gradient(to right, #295F98, #667BC6, #BF2EF0);  
+    transform: scale(1);
+}
+
+.banner_img img{
+    border-radius: 20px;
+    transform: rotate(7deg);
+    perspective: 1000px;
+    transition: .8s;
+    width: 90%;
+}
+
+.banner_img img:hover{
+    transform: rotate(0deg);
+    box-shadow: 0px 0px 12px #FFEEA9;
+}
+.banner_btn{
+    display: flex;
+}
+
+.banner_icon a{
+   
+    margin-left: 30px;
+    font-size: 30px;
+    color: #D1E9F6 !important; 
+    box-shadow: 0px 0px 12px #00028C;
+    border-radius: 5px;
+    
+}
+
+.banner_icon a:hover{
+    background: linear-gradient(to right, #00028C, #00028C, #00028C);  
+    color: #00028C;
+    box-shadow: 0px 0px 12px #FFEEA9;
+}
+
+.banner_icon{
+    margin-top: 50px;
+}
+
+.banner_inner{
+    text-align: center;
+    box-shadow: 0px 0px 12px #00028C;
+    padding: 20px 10px;
+    margin-top: 60px;
+    
+}
+.banner_inner:hover{
+    background-color: #03346E;
+    box-shadow: 0px 0px 12px #FFA62F;
+    color: #7695FF !important;
+}
+.banner_inner h2{
+    font-size: 60px;
+    color: #D1E9F6 !important; 
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 10px;
+}
+.banner_inner h3{
+    font-size: 26px;
+    color: #83b9ff !important; 
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 10px;
+}
+
+
+
+
